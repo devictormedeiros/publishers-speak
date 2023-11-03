@@ -1,27 +1,53 @@
 # Speak Project
 
-O projeto "Speak" visa oferecer uma interface de busca e navegação por voz, tornando a interação do usuário mais natural e intuitiva. Utiliza a Web Speech API para reconhecimento de voz, permitindo buscas e comandos de navegação.
+## Visão Geral
 
-## Características
+O "Speak" é uma inovação na interação entre usuário e interface, permitindo buscas e navegações intuitivas por meio do reconhecimento de voz. Através da Web Speech API, a ferramenta transforma comandos vocais em ações no site, proporcionando uma experiência mais fluida e natural.
 
-- Reconhecimento de voz para pesquisas.
-- Comandos de voz para navegação em diferentes seções do site.
-- Feedback visual para indicar quando a gravação está ativa.
+![Uma imagem demonstrativa de alguém usando o Speak (opcional)](https://devictormedeiros.com/speak/assets/images/image-1.png)
 
-## Como usar
 
-1. Clique no ícone de microfone para iniciar a gravação.
-2. Diga seu comando ou termo de busca.
-3. Veja os resultados ou navegue conforme seu comando.
+## Principais Funcionalidades
 
-## Requisitos
+- **Reconhecimento de Voz**: Realize buscas apenas com sua voz.
+- **Comandos de Navegação**: Navegue para diferentes seções do site com simples comandos.
+- **Feedback Visual Interativo**: Interface visual intuitiva que indica quando a gravação está ativa e processando comandos.
 
-- Navegador moderno com suporte à Web Speech API.
-- Permissão para acessar o microfone.
+## Começando
 
-https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+### Pré-requisitos
 
-## Instalação
+- Um navegador atualizado que suporte a [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API).
+- Conceder ao site permissão para acessar o microfone.
 
-Clone o repositório
+### Como Utilizar
+
+1. Localize e clique no ícone de microfone na interface.
+2. Forneça claramente seu comando ou termo de busca.
+3. O site responderá automaticamente conforme o comando fornecido.
+
+## Instalação e Contribuição
+
+Se você deseja contribuir ou personalizar o "Speak" para seu uso:
+
+1. **Clone o Repositório**:
+    ```bash
+    git clone https://github.com/devictormedeiros/publishers-speak.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd speak
+    ```
+
+## Recursos e Documentação
+
+- [Documentação da Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
+- [Guia de introdução à Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+
+## Feedback e Suporte
+
+Para reportar bugs, solicitar novas funcionalidades ou dar feedback sobre o projeto, por favor, abra uma issue no GitHub ou entre em contato conosco através de [contato@devictormedeiros.com](mailto:contato@devictormedeiros.com).
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
