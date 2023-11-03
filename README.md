@@ -4,7 +4,7 @@
 
 O "Publishers Speak" é uma inovação na interação entre usuário e interface, permitindo buscas e navegações intuitivas por meio do reconhecimento de voz. Através da Web Speech API, a ferramenta transforma comandos vocais em ações no site, proporcionando uma experiência mais fluida e natural.
 
-![Uma imagem demonstrativa de alguém usando o Speak (opcional)](https://devictormedeiros.com/speak/assets/images/image-1.png)
+![Uma imagem demonstrativa de alguém usando o Speak (opcional)](https://devictormedeiros.com/speak/assets/images/image-2.png)
 
 ## Demo
 [SITE DEMO](https://devictormedeiros.com/speak).

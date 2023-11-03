@@ -27,7 +27,7 @@
           utterance = new SpeechSynthesisUtterance(contentDiv.innerText);
           utterance.lang = "pt-BR";
           utterance.volume = 1;
-          utterance.rate = 1.6;
+          utterance.rate = 1;
           utterance.pitch = 0.1;
           utterance.voice = availableVoices[1]; // Certifique-se de que esta voz existe!
           utterance.onstart = () => {
