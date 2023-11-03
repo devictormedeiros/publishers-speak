@@ -19,6 +19,9 @@ O projeto "Speak" visa oferecer uma interface de busca e navegação por voz, to
 - Navegador moderno com suporte à Web Speech API.
 - Permissão para acessar o microfone.
 
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+
 ## Instalação
 
 Clone o repositório
